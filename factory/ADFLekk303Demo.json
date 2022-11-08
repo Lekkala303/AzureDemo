@@ -1,0 +1,9 @@
+{
+	"name": "ADFLekk303Demo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0e4d1d4-63f3-47ed-99a8-d1790452b2f4",
+		"tenantId": "6eed0d8b-7649-4d89-9d02-9a500cf8f6b1"
+	}
+}
